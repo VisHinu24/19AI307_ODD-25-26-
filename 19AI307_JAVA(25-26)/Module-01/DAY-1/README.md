@@ -4,7 +4,7 @@
 
 Lovely is entering a battle arena tournament, but only heroes who meet specific power and skill criteria are allowed inside.
 
-To enter the arena, a hero (Lovely) must satisfy **any one** of these conditions:
+To enter the arena, a hero (Lovely) must satisfy **any one** of these conditions :
 
 1. Her power level is above 80 **and** her rank is above 5
    → `(power > 80 && rank > 5)`
@@ -87,3 +87,4 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program using logical operators to determine a hero’s eligibility to enter the arena was successfully executed and verified.
+
